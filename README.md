@@ -30,7 +30,7 @@ Here's a step-by-step guide to using the `HPOEmbedder` class:
 1. First, import the necessary modules and instantiate the `HPOEmbedder`:
 
 ```python
-from hpo_embedder import HPOEmbedder
+from embedding import  HPOEmbedder
 
 # Initialize the embedder
 embedder = HPOEmbedder()
